@@ -1,12 +1,12 @@
 {
-    "name": "mbarwick83/instagram",
+    "name": "artin/instagram",
     "description": "Simple Instagram API package for Laravel 5.*. Package is in development.",
     "keywords": [
         "instagram",
         "api",
         "laravel"
     ],
-    "homepage": "https://github.com/mbarwick83/instagram",
+    "homepage": "https://github.com/artin/instagram",
     "license": "MIT",
     "authors": [
         {
